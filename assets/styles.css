@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+/* header{
+    background: url(../images/image1.gif);
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+} */
+
+html{
+    font-family: 'Lato', sans-serif;
+}
+
+.logo{
+    height: 80px;
+    position: absolute;
+    margin-top: -10px;
+}
+
+.background{
+    background: url(../images/image1.gif);
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+    margin-top: -35px;;
+}
+
+.section{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+
+.parallax{
+    height: 300px;
+}
+
+.last-img{
+    height: 150px!important;
+}
+
+.login{
+    display: inline-block; 
+    padding: 32px 48px 0px 48px; 
+    box-sizing: border-box;
+    border: 1px solid #EEE;
+}
+
+.register{
+    display: inline-block; 
+    padding: 32px 48px 0px 48px; 
+    box-sizing: border-box;
+    border: 1px solid #EEE;
+}
+
+
+
+.erroMessage{
+    color: #cccccc;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+/* BookYourRoom */
+
+.page-footer{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
